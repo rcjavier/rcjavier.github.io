@@ -1,10 +1,8 @@
 body {
-    background: url('bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background: url('bg.jpg') no-repeat center center;
     background-size: cover;
     font-family: 'Noto Sans', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -22,7 +20,7 @@ h2 {
 
 .bio {
     color: white;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .me {
@@ -45,4 +43,39 @@ h2 {
     background-color: #919191;
     border: none;
     width: 50px;
+}
+
+.cv {
+    max-width: 520px;
+    margin: 0 auto 40px;
+    padding: 30px 40px;
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 8px;
+}
+
+.cv h3 {
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    color: #c0c0c0;
+}
+
+.cv p {
+    font-size: 28px;
+    line-height: 1.5;
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+
+.cv a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #919191;
+}
+
+.cv a:hover {
+    border-bottom-color: white;
 }
