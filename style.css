@@ -7,7 +7,7 @@ body {
 
 h1 {
     color: white;
-    font-size: 50px;
+    font-size: 36px;
     font-weight: normal;
     margin-bottom: 0;
 }
@@ -20,11 +20,11 @@ h2 {
 
 .bio {
     color: white;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .me {
-    height: 150px;
+    height: 100px;
     border-radius: 100%;
     border-style: solid;
     border-color: white;
@@ -56,7 +56,7 @@ h2 {
 }
 
 .cv h3 {
-    font-size: 22px;
+    font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-bottom: 10px;
@@ -64,10 +64,10 @@ h2 {
 }
 
 .cv p {
-    font-size: 28px;
+    font-size: 16px;
     line-height: 1.5;
     margin-top: 0;
-    margin-bottom: 32px;
+    margin-bottom: 24px;
 }
 
 .cv a {
