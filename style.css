@@ -1,8 +1,16 @@
+html, body {
+    min-height: 100%;
+}
+
 body {
     background: url('bg.jpg') no-repeat center center;
     background-size: cover;
+    background-color: #0b0f14;
     font-family: 'Noto Sans', sans-serif;
     margin: 0;
+    min-height: 100vh;
+    padding: 24px 16px 32px;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -32,7 +40,7 @@ h2 {
 }
 
 .about {
-    width: 400px;
+    width: min(400px, 92vw);
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -46,9 +54,10 @@ h2 {
 }
 
 .cv {
-    max-width: 520px;
-    margin: 0 auto 40px;
+    width: min(520px, 92vw);
+    margin: 0 auto;
     padding: 30px 40px;
+    box-sizing: border-box;
     text-align: center;
     color: white;
     background: rgba(0, 0, 0, 0.6);
@@ -78,4 +87,66 @@ h2 {
 
 .cv a:hover {
     border-bottom-color: white;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 16px 12px 20px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    .bio {
+        font-size: 15px;
+        line-height: 1.45;
+    }
+
+    .me {
+        height: 84px;
+        margin-top: 20px;
+    }
+
+    .cv {
+        padding: 22px 20px;
+        border-radius: 10px;
+    }
+
+    .cv p {
+        font-size: 15px;
+        margin-bottom: 18px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    body {
+        padding: 20px 20px 28px;
+    }
+
+    .about {
+        width: min(460px, 86vw);
+    }
+
+    .cv {
+        width: min(620px, 88vw);
+        padding: 26px 30px;
+    }
+
+    h1 {
+        font-size: 34px;
+    }
+
+    .bio {
+        font-size: 16px;
+        line-height: 1.45;
+    }
+}
+
+body.is-mobile .cv {
+    background: rgba(0, 0, 0, 0.68);
+}
+
+body.is-desktop .cv {
+    background: rgba(0, 0, 0, 0.6);
 }
