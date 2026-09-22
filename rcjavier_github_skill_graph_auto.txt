@@ -10,13 +10,13 @@ Mode:
 - Owner repos: 49
 
 Top 10 skills (normalized + band):
-01. python             100.0 (band=5, smooth_raw=147.161)
-02. frontend            45.0 (band=3, smooth_raw=32.011)
-03. typescript          31.2 (band=2, smooth_raw=14.24)
-04. kotlin              28.3 (band=2, smooth_raw=11.302)
-05. developer_tools     27.1 (band=2, smooth_raw=10.115)
+01. python             100.0 (band=5, smooth_raw=147.358)
+02. frontend            44.9 (band=2, smooth_raw=32.014)
+03. typescript          31.2 (band=2, smooth_raw=14.255)
+04. kotlin              28.3 (band=2, smooth_raw=11.299)
+05. developer_tools     27.1 (band=2, smooth_raw=10.11)
 06. cli_automation      26.4 (band=2, smooth_raw=9.422)
-07. ios                 22.5 (band=1, smooth_raw=6.09)
-08. ai_agents           22.1 (band=1, smooth_raw=5.757)
-09. data_analytics      20.2 (band=1, smooth_raw=4.369)
-10. automation          18.0 (band=1, smooth_raw=2.98)
+07. ios                 22.5 (band=1, smooth_raw=6.094)
+08. ai_agents           22.1 (band=1, smooth_raw=5.754)
+09. data_analytics      20.3 (band=1, smooth_raw=4.44)
+10. automation          18.1 (band=1, smooth_raw=3.06)
