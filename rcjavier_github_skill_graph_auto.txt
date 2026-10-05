@@ -6,17 +6,17 @@ Mode:
 - Blended score = 70% owner-only + 30% all-score with fork penalty
 - Private repos included: yes
 - Smoothing: private-only moving average
-- Active public repos scanned: 247
-- Owner repos: 51
+- Active public repos scanned: 248
+- Owner repos: 52
 
 Top 10 skills (normalized + band):
-01. python             100.0 (band=5, smooth_raw=154.858)
-02. frontend            43.9 (band=2, smooth_raw=31.993)
-03. typescript          30.7 (band=2, smooth_raw=14.465)
-04. kotlin              27.6 (band=2, smooth_raw=11.168)
-05. developer_tools     26.4 (band=2, smooth_raw=9.968)
-06. cli_automation      26.4 (band=2, smooth_raw=9.92)
+01. python             100.0 (band=5, smooth_raw=154.897)
+02. frontend            43.9 (band=2, smooth_raw=31.997)
+03. typescript          30.7 (band=2, smooth_raw=14.461)
+04. kotlin              27.6 (band=2, smooth_raw=11.166)
+05. cli_automation      26.5 (band=2, smooth_raw=10.088)
+06. developer_tools     26.4 (band=2, smooth_raw=9.968)
 07. ios                 22.2 (band=1, smooth_raw=6.149)
-08. data_analytics      22.0 (band=1, smooth_raw=6.01)
-09. ai_agents           21.5 (band=1, smooth_raw=5.641)
-10. automation          20.5 (band=1, smooth_raw=4.859)
+08. data_analytics      22.1 (band=1, smooth_raw=6.052)
+09. ai_agents           21.5 (band=1, smooth_raw=5.638)
+10. automation          20.5 (band=1, smooth_raw=4.857)
