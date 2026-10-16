@@ -5,7 +5,7 @@
     {
       "skill": "python",
       "score": 100.0,
-      "raw": 157.073,
+      "raw": 157.099,
       "band": 5
     },
     {
@@ -16,50 +16,50 @@
     },
     {
       "skill": "typescript",
-      "score": 36.2,
-      "raw": 21.478,
+      "score": 36.4,
+      "raw": 21.722,
       "band": 2
     },
     {
       "skill": "cli_automation",
-      "score": 31.7,
-      "raw": 15.82,
+      "score": 31.9,
+      "raw": 16.038,
       "band": 2
     },
     {
       "skill": "developer_tools",
-      "score": 28.7,
-      "raw": 12.479,
+      "score": 28.8,
+      "raw": 12.569,
       "band": 2
     },
     {
       "skill": "kotlin",
       "score": 28.1,
-      "raw": 11.782,
+      "raw": 11.805,
       "band": 2
     },
     {
       "skill": "data_analytics",
       "score": 23.4,
-      "raw": 7.234,
+      "raw": 7.275,
       "band": 1
     },
     {
       "skill": "ios",
       "score": 23.0,
-      "raw": 6.901,
+      "raw": 6.929,
       "band": 1
     },
     {
       "skill": "ai_agents",
       "score": 21.4,
-      "raw": 5.629,
+      "raw": 5.628,
       "band": 1
     },
     {
-      "skill": "automation",
-      "score": 20.3,
-      "raw": 4.791,
+      "skill": "flutter",
+      "score": 20.5,
+      "raw": 4.893,
       "band": 1
     }
   ],
@@ -69,141 +69,141 @@
     {
       "repo": "rcjavier/gnucash-bookkeeper",
       "fork": false,
-      "age_days": 36.9,
-      "weight": 8.4242,
+      "age_days": 37.3,
+      "weight": 8.4216,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/grok-box-bootstrap",
       "fork": false,
-      "age_days": 1.9,
-      "weight": 7.1842,
+      "age_days": 2.3,
+      "weight": 7.182,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/nexusforge",
       "fork": false,
-      "age_days": 3.8,
-      "weight": 7.0878,
+      "age_days": 4.2,
+      "weight": 7.0856,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/pse_tracker_2024",
       "fork": false,
-      "age_days": 22.5,
-      "weight": 6.526,
+      "age_days": 22.8,
+      "weight": 6.5241,
       "top_language": "HTML"
     },
     {
       "repo": "rcjavier/networth",
       "fork": false,
-      "age_days": 9.1,
-      "weight": 6.4611,
+      "age_days": 9.5,
+      "weight": 6.4591,
       "top_language": "Dart"
     },
     {
       "repo": "rcjavier/friendster",
       "fork": false,
-      "age_days": 45.5,
-      "weight": 5.9974,
+      "age_days": 45.8,
+      "weight": 5.9956,
       "top_language": "HTML"
     },
     {
       "repo": "rcjavier/paperclip",
       "fork": false,
-      "age_days": 125.9,
-      "weight": 5.8561,
+      "age_days": 126.3,
+      "weight": 5.8543,
       "top_language": "TypeScript"
     },
     {
       "repo": "rcjavier/thinking-skills",
       "fork": false,
-      "age_days": 14.0,
-      "weight": 5.7632,
+      "age_days": 14.3,
+      "weight": 5.7615,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/zettelkasten",
       "fork": false,
-      "age_days": 14.0,
-      "weight": 5.7419,
+      "age_days": 14.3,
+      "weight": 5.7401,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/propertycheckph",
       "fork": false,
-      "age_days": 17.8,
-      "weight": 5.6735,
+      "age_days": 18.2,
+      "weight": 5.6718,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/passive_income_5k",
       "fork": false,
-      "age_days": 58.0,
-      "weight": 5.5999,
+      "age_days": 58.4,
+      "weight": 5.5982,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/nf-runtime",
       "fork": false,
-      "age_days": 14.0,
-      "weight": 5.4547,
+      "age_days": 14.3,
+      "weight": 5.4531,
       "top_language": null
     },
     {
       "repo": "rcjavier/pennyworth-memory",
       "fork": false,
-      "age_days": 5.0,
-      "weight": 5.4391,
+      "age_days": 5.3,
+      "weight": 5.4375,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/bookforge",
       "fork": false,
-      "age_days": 52.1,
-      "weight": 5.2765,
+      "age_days": 52.5,
+      "weight": 5.2749,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/bujo-private",
       "fork": false,
-      "age_days": 5.6,
-      "weight": 5.1849,
+      "age_days": 6.0,
+      "weight": 5.1833,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/delivery-role-method-toolboxes",
       "fork": false,
-      "age_days": 14.0,
-      "weight": 5.1725,
+      "age_days": 14.3,
+      "weight": 5.1709,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/ph-civic-data-mcp",
       "fork": false,
-      "age_days": 146.3,
-      "weight": 5.1233,
+      "age_days": 146.6,
+      "weight": 5.1217,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/rcjavier.github.io",
       "fork": false,
-      "age_days": 0.3,
-      "weight": 5.0825,
+      "age_days": 0.4,
+      "weight": 5.0846,
       "top_language": "HTML"
     },
     {
       "repo": "rcjavier/literary-transformer",
       "fork": false,
-      "age_days": 11.9,
-      "weight": 4.9466,
+      "age_days": 12.3,
+      "weight": 4.9452,
       "top_language": "Python"
     },
     {
       "repo": "rcjavier/niavkbci-credit-ops",
       "fork": false,
-      "age_days": 26.0,
-      "weight": 4.6007,
+      "age_days": 26.3,
+      "weight": 4.5993,
       "top_language": "Python"
     }
   ]
